@@ -1,2 +1,2 @@
 # odin-recipes
-odin project recipe test
+odin project TEST
